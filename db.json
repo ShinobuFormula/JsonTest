@@ -1,21 +1,17 @@
-{
-  "DataUE": [
 
-    {
-      "id":1,
-      "UE":"Web",
-      "Prosit": "HTML",
-      "Aller": true,
-      "Retour": true,
-      "Check": "Tuteur"
-    },
-    {
-      "id":2,
-      "UE":"Web",
-      "Prosit": "JavaScript",
-      "Aller": true,
-      "Retour": false,
-      "Check": "Non"
-    }
-  ]
+{
+  "id":1,
+  "UE":"Web",
+  "Prosit": "HTML",
+  "Aller": true,
+  "Retour": true,
+  "Check": "Tuteur"
+},
+{
+  "id":2,
+  "UE":"Web",
+  "Prosit": "JavaScript",
+  "Aller": true,
+  "Retour": false,
+  "Check": "Non"
 }
